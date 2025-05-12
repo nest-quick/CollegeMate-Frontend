@@ -1,0 +1,14 @@
+.app-title{
+    color: red;
+}
+
+.options, .btn {
+    color: white;
+    background-color: red;
+    padding: 12px 24px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 5px;
+}
+
+
