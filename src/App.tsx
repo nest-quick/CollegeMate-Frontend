@@ -6,9 +6,6 @@ const App = () => {
       <a className="options" href="/home">
         Note Generator
       </a>
-      <a className="options" href="/home">
-        Planner
-      </a>
     </div>
   )
 }
