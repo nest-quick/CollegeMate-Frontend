@@ -1,6 +1,3 @@
-CollegeMate AI 🎓
-Personal Project – Full-Stack Developer
-
 CollegeMate AI is a web application designed to help college students study more efficiently by leveraging AI to generate:
 
 Flashcards from notes
