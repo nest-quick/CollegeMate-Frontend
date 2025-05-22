@@ -16,6 +16,7 @@ Tech Stack
   - OpenAI API (Azure or OpenAI platform)
 
   Backend
+  https://github.com/nest-quick/SlideGeneratorAPI
   - .NET Web API
   - Google Apps Script (for Slides generation)
   - PostgreSQL (or your chosen DB, via Supabase/Auth if applicable)
